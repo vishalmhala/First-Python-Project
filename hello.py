@@ -1,1 +1,11 @@
-print("Hello, World!")
+print("Hello, World!") 
+print("Welcome to my first Python project!")
+print("I am learning Python and it's fun!")
+print("I can't wait to build more projects with Python!")
+print("Thank you for checking out my first Python project!")
+print("Goodbye, World!")
+print("This is the end of my first Python project.")
+print("I hope you enjoyed it!")
+print("See you next time!")
+print("This is a simple Python script that prints messages to the console.")
+
